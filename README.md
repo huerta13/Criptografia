@@ -36,6 +36,12 @@ Criptografia/
 
 ## 🚀 ¿Cómo ejecutar el proyecto?
 
+Primero se debe copiar el repositorio a su equipo
+```
+git clone https://github.com/huerta13/Criptografia.git
+```
+Despues tiene 2 opciones para ejecutar:
+
 ### ✅ Opción 1: Desde NetBeans
 
 1. Abre NetBeans.
@@ -45,6 +51,11 @@ Criptografia/
 
 ### ✅ Opción 2: Desde terminal (si tienes `.jar` generado)
 
+Navegar hasta la ruta 
+```
+...\Criptografia\dist
+```
+y ejecutar el siguiente comando en su terminal:
 ```bash
 java -jar Criptografia.jar
 ```
