@@ -1,7 +1,7 @@
 
 # 🔐 Criptografía en Java - Encriptador con Interfaz Gráfica
 
-Este proyecto simula un "Traductor de Google" pero con **cifrado personalizado**, utilizando técnicas como **transposición de texto**. Desarrollado con **Java Swing (JFrame)**, permite encriptar y desencriptar mensajes de forma visual e interactiva.
+Este proyecto realiza un **cifrado personalizado**, utilizando técnicas como **transposición de texto**. Desarrollado con **Java Swing (JFrame)**, permite encriptar y desencriptar mensajes de forma visual e interactiva.
 
 ---
 
@@ -49,7 +49,7 @@ Despues tiene 2 opciones para ejecutar:
 3. Selecciona la carpeta `Criptografia`.
 4. Ejecuta desde `Main.java`.
 
-### ✅ Opción 2: Desde terminal (si tienes `.jar` generado)
+### ✅ Opción 2: Desde terminal
 
 Navegar hasta la ruta 
 ```
